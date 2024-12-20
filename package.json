@@ -1,7 +1,7 @@
 {
-  "name": "Neumorphism",
+  "name": "neumorphism",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "gulp": "^5.0.0"
+  },
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cyeonho.github.io"
   }
 }

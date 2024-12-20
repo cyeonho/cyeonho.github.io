@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: cyeonho
+username: Yeon-Ho Choi
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
@@ -21,10 +21,10 @@ email: apollo.choe@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: cyeonho
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+#codepen_username: exampleUser
+#dev_username: exampleUser
+#linkedin_username: exampleUser
+twitter_username: _YeonhoChoi
 
 # ABOUT ME SECTION
 # show_aboutme_card:
