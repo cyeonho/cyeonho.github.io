@@ -237,6 +237,27 @@ a {
   text-align: center;
 }
 
+.landing-photo {
+  width: 150px;                  /* Photo width */
+  height: 150px;                 /* Photo height */
+  border-radius: 50%;            /* Makes the image circular */
+  object-fit: cover;             /* Ensures the photo fits properly */
+  margin: 20px auto;             /* Centers the photo */
+  border: 3px solid white;       /* Optional border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional shadow */
+}
+
+/* Divider */
+.divider {
+  width: 50px;                   /* Divider width */
+  height: 3px;                   /* Divider height */
+  background: $primary-color;    /* Matches primary color */
+  margin: 10px auto 20px;        /* Centers the divider */
+  border-radius: 1px;            /* Slight rounding for better look */
+}
+
+
+
 .landing-title {
   left: 0;
   margin: 0.5rem;
